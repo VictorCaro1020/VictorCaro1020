@@ -40,5 +40,4 @@ Convertir lo que aprendo en proyectos propios, tanto para mi vida personal como 
 ---
 
 ### 🌎 English (basic)
-Hi! I am Victor. I am learning programming and I am learning English. My projects are coming soon.growing step by step. Projects are
-coming soon.coming soon.
+Hi! I am Victor. I am learning programming and I am learning English. My projects are coming soon.
